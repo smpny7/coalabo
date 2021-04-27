@@ -1,0 +1,7 @@
+<!-- Custom Style -->
+{{ partial "style/custom" . }}
+
+<!-- Analytics -->
+{{ if not .Site.IsServer }}
+{{ partial "google/analytics" . }}
+{{ end }}

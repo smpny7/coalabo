@@ -1,0 +1,116 @@
+<style>
+  :root {
+    --accent-color: #694745;
+    --accent-color-darker: #533432;
+    --blockquote-background-color: #F3F0EB;
+    --body-background: #F1EEE5;
+    --body-text-color: #C6BABA;
+    --card-background: #F8F6F3;
+    --card-background-selected: #F3F0EB;
+    --card-border-radius: 20px;
+    --card-separator-color: #C6BABA;
+    --card-text-color-main: #533432;
+    --card-text-color-secondary: #A08381;
+    --card-text-color-tertiary: #A08381;
+    --code-background-color: #EEE3E2;
+    --code-text-color: #694745;
+    --table-border-color: #EEE3E2;
+    --tr-even-background-color: #F5F1EC;
+  }
+
+  .article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5, .article-content h6 {
+    margin-top: 50px;
+  }
+
+  .article-title {
+    letter-spacing: 2px;
+    line-height: 2.8rem;
+    margin-bottom: 10px;
+  }
+
+  .article-subtitle {
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+  }
+
+  .site-description {
+    font-size: 1.4rem !important;
+    line-height: 2.2rem;
+  }
+
+  .article-content .gallery figure {
+    margin: 0 40px;
+  }
+
+  @media (max-width: 812px) {
+    .article-content .gallery figure {
+      margin: 0 10px;
+    }
+  }
+
+  .article-content .gallery figure a img {
+    border-radius: 15px;
+  }
+
+  @media (max-width: 812px) {
+    .article-content .gallery figure a img {
+      border-radius: 5px;
+    }
+  }
+
+  .article-content code {
+    padding: 2px 8px;
+  }
+
+  .article-content figure figcaption {
+    letter-spacing: 1px;
+  }
+
+  .article-content blockquote {
+    padding: 2px calc(var(--card-padding) - var(--blockquote-border-size));
+  }
+
+  @media (max-width: 812px) {
+    .menu {
+      border-radius: 15px;
+      margin: auto 15px;
+    }
+  }
+
+  .powerby {
+    display: none;
+  }
+
+  .highlight {
+    padding: 0 30px;
+  }
+
+  @media (max-width: 812px) {
+    .highlight {
+      padding: 0 10px;
+    }
+  }
+
+  .chroma {
+    border-radius: 15px;
+  }
+
+  @media (max-width: 812px) {
+    .chroma {
+      border-radius: 10px;
+    }
+  }
+
+  [data-scheme=light] .chroma {
+    background-color: #343434;
+    color: var(--body-text-color);
+  }
+
+  [data-scheme=light] .chroma .p,
+  [data-scheme=light] .chroma .n,
+  [data-scheme=light] .chroma .nb,
+  [data-scheme=light] .chroma .nn,
+  [data-scheme=light] .chroma .nv {
+    color: var(--body-text-color);
+  }
+</style>
