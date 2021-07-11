@@ -1,0 +1,49 @@
+<mxfile>
+    <diagram id="xTEVD5YQ4NLB8bsYJ7XT" name="ページ1">
+        <mxGraphModel dx="632" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" value="0" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="230" y="930" width="540" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="18" vertex="1">
+                    <mxGeometry width="540" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="区分求積法" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontStyle=0;fontSize=16;spacing=2;" parent="18" vertex="1">
+                    <mxGeometry y="18.823529411764707" width="150" height="18.823529411764707" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;strokeColor=#999999;jumpSize=10;" edge="1" parent="18">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="75" y="261.11764705882354" as="sourcePoint"/>
+                        <mxPoint x="465" y="261.11764705882354" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=classic;html=1;strokeColor=#999999;jumpSize=10;" edge="1" parent="18">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="298.7647058823529" as="sourcePoint"/>
+                        <mxPoint x="269.5" y="54.05882352941176" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;" vertex="1" parent="18">
+                    <mxGeometry x="270" y="251.70588235294116" width="30" height="9.411764705882353" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;" vertex="1" parent="18">
+                    <mxGeometry x="300" y="223.47058823529412" width="30" height="37.64705882352941" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;" vertex="1" parent="18">
+                    <mxGeometry x="330" y="167" width="30" height="94.12" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;" vertex="1" parent="18">
+                    <mxGeometry x="360" y="54.05882352941176" width="30" height="207.05882352941177" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontSize=14;" vertex="1" parent="18">
+                    <mxGeometry x="250" y="261.11764705882354" width="20" height="18.823529411764707" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.2947258399976623;endAngle=0.6187208280246076;fillColor=none;strokeColor=#4D4D4D;" vertex="1" parent="1">
+                    <mxGeometry x="373.7" y="589" width="252.59" height="601" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
